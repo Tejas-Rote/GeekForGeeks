@@ -1,4 +1,4 @@
-<h2><a href="https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1?page=1&category[]=Tree&curated[]=1&sortBy=submissions">Height of Binary Tree</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given a binary tree, find its height.</span></p>
+<h2><a href="https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1?page=1&difficulty[]=1&status[]=solved&curated[]=1&sortBy=difficulty">Height of Binary Tree</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given a binary tree, find its height.</span></p>
 
 <p><br>
 <span style="font-size:18px"><strong>Example 1:</strong></span></p>
